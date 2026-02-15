@@ -29,7 +29,7 @@ For plotting purposes, this project also uses [NumPy](https://numpy.org/) and [M
 
 ## Few words
 
-This project is documented in [my personal website page](https://mosessinanta.github.io/projects/001.html). My work is free to use as a reference for any project, but please do cite them in your works.
+This project is documented in [my personal website page](https://mosessin.github.io/projects/001.html). My work is free to use as a reference for any project, but please do cite them in your works.
 
 Thank you for visiting my project. Good luck and have fun!
 
@@ -38,3 +38,4 @@ Thank you for visiting my project. Good luck and have fun!
 
 
 [MIT License](https://choosealicense.com/licenses/mit/)
+
